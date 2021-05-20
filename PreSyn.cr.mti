@@ -1,0 +1,60 @@
+F:/CE213/FIFO/PreSyn/Compare_nbit.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\Compare_nbit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Compare_nbit
+-- Compiling module Compare_1bit
+
+Top level modules:
+	Compare_nbit
+
+} {} {}} F:/CE213/FIFO/PreSyn/D_FF.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\D_FF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} F:/CE213/FIFO/PreSyn/TestBench.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} F:/CE213/FIFO/PreSyn/MUX2to1_nbit.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\MUX2to1_nbit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2to1_nbit
+-- Compiling module MUX2to1
+
+Top level modules:
+	MUX2to1_nbit
+
+} {} {}} F:/CE213/FIFO/PreSyn/FIFO.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\FIFO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} F:/CE213/FIFO/PreSyn/Counter.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+-- Compiling module HAS
+
+Top level modules:
+	Counter
+
+} {} {}} F:/CE213/FIFO/PreSyn/RAM.v {1 {vlog -work work {F:\CE213\FIFO\PreSyn\RAM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RAM
+-- Compiling module Decoder2to4
+-- Compiling module Decoder8to256
+-- Compiling module WORD
+-- Compiling module Decoder4to16
+-- Compiling module Decoder3to8
+-- Compiling module MC
+-- Compiling module D_latch
+
+Top level modules:
+	RAM
+
+} {} {}}
